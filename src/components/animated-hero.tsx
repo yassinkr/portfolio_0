@@ -72,7 +72,7 @@ export default function AnimatedHero() {
                 <span className="font-handwritten text-black dark:text-primary">The Company.</span>
               </h1>
               <p className="mt-8 text-xl md:text-2xl font-serif text-zinc-700 dark:text-zinc-300 max-w-3xl mx-auto">
-                I'll be with you in the{" "}
+                I&apos;ll be with you in the{" "}
                 <span className="font-handwritten text-black dark:text-primary">magical journey</span> of creating your{" "}
                 <span className="font-handwritten text-black dark:text-primary">vision</span> and transforming your{" "}
                 <span className="font-handwritten text-black dark:text-primary">dreams</span> into reality.
@@ -100,7 +100,7 @@ export default function AnimatedHero() {
           position: relative;
         }
         .typing-effect::after {
-          content: '|';
+          content: &apos;|&apos;;
           position: absolute;
           right: -8px;
           animation: blink 1s infinite;

@@ -33,7 +33,7 @@ export default function Portfolio() {
               About Me
             </h2>
             <p className="text-lg text-zinc-700 dark:text-zinc-400">
-              I'm a passionate designer and developer dedicated to bringing your visions to life. With years of experience in creating stunning digital experiences, I understand that the journey of creation is just as important as the final destination.
+              I&apos;m a passionate designer and developer dedicated to bringing your visions to life. With years of experience in creating stunning digital experiences, I understand that the journey of creation is just as important as the final destination.
             </p>
             <p className="text-lg text-zinc-700 dark:text-zinc-400">
               My approach is collaborative and client-focused. I believe in walking alongside you throughout the entire process, ensuring that your ideas are realized with precision and care.
@@ -99,7 +99,7 @@ export default function Portfolio() {
             Featured Projects
           </h2>
           <p className="mt-4 text-xl text-zinc-700 dark:text-zinc-400 max-w-3xl mx-auto">
-            A showcase of my recent work and the journeys we've embarked on together.
+            A showcase of my recent work and the journeys we&apos;ve embarked on together.
           </p>
         </div>
         
@@ -218,7 +218,7 @@ export default function Portfolio() {
             <div className="flex flex-col md:flex-row items-center">
               <div className="md:w-1/2 md:pr-12 md:text-right">
                 <h3 className="text-2xl font-bold">Launch & Support</h3>
-                <p className="mt-2 text-zinc-700 dark:text-zinc-400">The journey doesn't end at launch. I provide ongoing support to ensure continued success.</p>
+                <p className="mt-2 text-zinc-700 dark:text-zinc-400">The journey doesn&apos;t end at launch. I provide ongoing support to ensure continued success.</p>
               </div>
               <div className="mx-auto md:mx-0 my-4 md:my-0 w-12 h-12 rounded-full bg-zinc-900 dark:bg-zinc-800 flex items-center justify-center z-10">
                 <span className="text-white font-bold">5</span>
@@ -244,7 +244,7 @@ export default function Portfolio() {
           <TestimonialCard 
             name="Alexandra Chen"
             role="CEO, Ethereal Designs"
-            quote="Working with this team was transformative for our business. They didn't just deliver a website; they delivered a digital experience that perfectly captures our brand essence."
+            quote="Working with this team was transformative for our business. They didn&apos;t just deliver a website; they delivered a digital experience that perfectly captures our brand essence."
             avatar="/placeholder.svg?height=200&width=200"
           />
           <TestimonialCard 
@@ -269,7 +269,7 @@ export default function Portfolio() {
             Start Your Journey
           </h2>
           <p className="mt-4 text-xl text-zinc-700 dark:text-zinc-400 max-w-3xl mx-auto">
-            Ready to bring your vision to life? Let's embark on this journey together.
+            Ready to bring your vision to life? Let&apos;s embark on this journey together.
           </p>
         </div>
         
@@ -351,7 +351,7 @@ export default function Portfolio() {
             </div>
             
             <div className="bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-lg p-6">
-              <h3 className="text-2xl font-bold mb-4">Let's Connect</h3>
+              <h3 className="text-2xl font-bold mb-4">Let&apos;s Connect</h3>
               <p className="text-zinc-700 dark:text-zinc-400 mb-6">
                 Follow me on social media for updates on my latest projects and insights into my creative process.
               </p>
